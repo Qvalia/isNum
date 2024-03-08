@@ -1,0 +1,27 @@
+{
+  "name": "isnum",
+  "version": "1.0.0",
+  "description": "A small footprint is numeric value function for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qvalia/isNum.git"
+  },
+  "keywords": [
+    "Node.js",
+    "isnumeric",
+    "isnumber"
+  ],
+  "author": "Anders Wasén (@Qvalia)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qvalia/isNum/issues"
+  },
+  "homepage": "https://github.com/Qvalia/isNum#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
