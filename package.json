@@ -1,5 +1,5 @@
 {
-  "name": "isnum",
+  "name": "@qvalia/isnum",
   "version": "1.0.0",
   "description": "A small footprint is numeric value function for Node.js",
   "main": "index.js",
